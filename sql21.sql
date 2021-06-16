@@ -1,0 +1,1 @@
+DELETE FROM products WHERE productID = 1006;

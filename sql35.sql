@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE name IN ('Pen Red', 'Pen Black');

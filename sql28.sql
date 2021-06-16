@@ -1,0 +1,1 @@
+SELECT name, quantity FROM products WHERE quantity <= 2000;

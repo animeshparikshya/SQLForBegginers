@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE quantity >= 5000 AND name LIKE 'Pen %';

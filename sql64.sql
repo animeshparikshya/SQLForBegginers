@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE name = 'Pen Red';

@@ -1,0 +1,2 @@
+ALTER TABLE products
+       ADD COLUMN supplierID INT UNSIGNED NOT NULL;

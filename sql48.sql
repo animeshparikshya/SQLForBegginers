@@ -1,0 +1,1 @@
+SELECT DISTINCT price, name FROM products;

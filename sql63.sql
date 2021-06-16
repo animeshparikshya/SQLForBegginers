@@ -1,0 +1,1 @@
+UPDATE products SET quantity = quantity + 50, price = 1.23 WHERE name = 'Pen Red';

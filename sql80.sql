@@ -1,0 +1,1 @@
+UPDATE products SET supplierID = 502 WHERE productID  = 2004;

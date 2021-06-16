@@ -1,0 +1,1 @@
+SELECT CONCAT(productCode, ' - ', name) AS `Product Description`, price FROM products;

@@ -1,0 +1,1 @@
+INSERT INTO products (productCode, name) VALUES ('PEC', 'Pencil HB');

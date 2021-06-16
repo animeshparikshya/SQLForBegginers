@@ -1,0 +1,1 @@
+SELECT productCode, COUNT(*) FROM products GROUP BY productCode;

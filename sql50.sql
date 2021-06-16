@@ -1,0 +1,1 @@
+SELECT * FROM products GROUP BY productCode;

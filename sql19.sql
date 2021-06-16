@@ -1,0 +1,1 @@
+INSERT INTO products values (NULL, NULL, NULL, NULL, NULL);

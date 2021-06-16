@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE NOT (quantity >= 5000 AND name LIKE 'Pen %');

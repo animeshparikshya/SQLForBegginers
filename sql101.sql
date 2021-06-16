@@ -1,0 +1,2 @@
+SELECT *
+       FROM t1 LEFT JOIN t2 USING (id);
